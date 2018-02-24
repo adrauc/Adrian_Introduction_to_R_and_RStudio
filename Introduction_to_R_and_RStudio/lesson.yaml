@@ -258,7 +258,7 @@
   Output: In R all strings (character data) have quotations.
 
 - Class: cmd_question
-  Output: Let's use my name as a string. Assign your "Adrian" to the new object teacher
+  Output: Let's use my name as a string. Assign "Adrian" to the new object teacher. Type teacher <- "Adrian"
   CorrectAnswer: teacher <- "Adrian"
   AnswerTests: omnitest(correctExpr='teacher <- "Adrian"')
   Hint: type teacher <- "Adrian".
