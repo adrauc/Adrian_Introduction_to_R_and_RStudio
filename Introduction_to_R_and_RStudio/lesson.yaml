@@ -184,7 +184,7 @@
   Hint: Type c(z, 555, z). Don't create a new variable. We just want to view the result.  
 
 - Class: cmd_question
-  Output: If you have a numeric vector, you can calculate the mean with the function mean(). In the parentheses you add the vector z as an argument. 
+  Output: If you have a numeric vector, you can calculate the mean with the function mean(). In the parentheses you add the vector z as an argument. Let's try and type mean(z)
   CorrectAnswer: mean(z)
   AnswerTests: omnitest(correctExpr='mean(z)')
   Hint: Type mean(z)
