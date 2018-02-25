@@ -15,7 +15,7 @@
   Output: Let's start with a short introduction of RStudio.
 
 - Class: text
-  Output: This is the console, here you see the code that is running. Here you can enter code.
+  Output: This is the console, here you see the code that is running. Here you can Enter code.
 
 - Class: text
   Output: Above the console you usually have the scripts. If you use RStuido or a project for the first time, the script editor is not yet visible
@@ -70,18 +70,11 @@
   Output: Ok, let's start with some basic code and functions.
 
 - Class: text
-  Output: When you see the '>' below in the console, you have to enter code. R can be used like a calculator.
-
-
-- Class: text
-  Output: When you see the '>' below in the console, you have to enter code. R can be used like a calculator.
-   
-
-
+  Output: When you see the '>' below in the console, you have to Enter code. R can be used like a calculator.
 
 
 - Class: cmd_question
-  Output: In its simplest form, R can be used as an interactive calculator. Type 1 + 4 and then press Enter
+  Output: In its simplest form, R can be used as an interactive calculator. Type 1 + 4 into the console and then press Enter
   CorrectAnswer: 1 + 4
   AnswerTests: omnitest(correctExpr='1 + 4', correctVal=5)
   Hint: just type 1 + 4 in the console
@@ -305,7 +298,7 @@
 
 
 - Class: mult_question
-  Output: Thank you for finishing this class. Press eneter and then please copy the code in the console into an email with the title "[COU Lesson 1]" and send to adrian.rauchfleisch@gmail.com. Would you like to get the completion code? Type the number next to Yes and press enter - then you need to enter your student id and name. Press enter
+  Output: Thank you for finishing this class. Press Enter and then please copy the code in the console into an email with the title "[COU Lesson 1]" and send to adrian.rauchfleisch@gmail.com. Would you like to get the completion code? Type the number next to Yes and press Enter - then you need to Enter your student id and name.
   CorrectAnswer: NULL
   AnswerChoices: Yes;No
   AnswerTests: get_token()
