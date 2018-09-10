@@ -1,7 +1,7 @@
 - Class: meta
   Course: Adrian's Introduction to R and RStudio
   Lesson: Introduction to R and RStudio
-  Author: your name goes here
+  Author: Adrian Rauchfleisch
   Type: Standard
   Organization: National Taiwan University
   Version: 2.4.3
@@ -18,7 +18,7 @@
   Output: This is the console, here you see the code that is running. Here you can Enter code.
 
 - Class: text
-  Output: Above the console you usually have the scripts. If you use RStuido or a project for the first time, the script editor is not yet visible
+  Output: Above the console you usually have the scripts. If you use RStudio or a project for the first time, the script editor is not yet visible
 
 - Class: text
   Output: We can easily open a new script. Just click on the symbol with white document, the green square and the white + in the top-left corner of the window. Then select 'R Script'
@@ -28,7 +28,7 @@
   Output: Now you have opened a new R script above. In class you get the scripts from me. If you write code, always first write the code into the script and don't forget to save regularly.
 
 - Class: text
-  Output: If you want to save a script, just click the disk smybol above the script editor. Try it out now. Save the script in the folder that is first opened.
+  Output: If you want to save a script, just click the disk symbol above the script editor. Try it out now. Save the script in the folder that is first opened.
 
 - Class: text
   Output: Scripts are saved as .R files. They are just text files and can also be opened in a normal text editor.
@@ -37,10 +37,10 @@
   Output: If the script already exists, just click the disk symbol and the script will be saved in the same file.
 
 - Class: text
-  Output: In the top-right corner of the window you can see a symbol (box with R in it). Here you can create new RProjects. We will work with RProjects in this class. Click on the smybol and quickly check out the menue it opens. You could create a new project here.
+  Output: In the top-right corner of the window you can see a symbol (box with R in it). Here you can create new RProjects. We will work with RProjects in this class. Click on the symbol and quickly check out the menu it opens. You could create a new project here.
 
 - Class: text
-  Output: Fow now, just continue the course.
+  Output: For now, just continue the course.
 
 - Class: text
   Output: In the bottom-right corner you see in the Files tab your current working directory. If we create a new RProject in RStudio, the folder of the project is the working directory. You can see all the files in this folder.
@@ -58,7 +58,7 @@
   Output: You can also install packages here. Just click on Install - then you can type the name of a package and install it. Cancel for now.
 
 - Class: text
-  Output: Help will automatically open if you user the ? together with the name of a function. 
+  Output: Help will automatically open if you use the ? together with the name of a function. 
 
 - Class: text
   Output: We will not really use the viewer tab in this class. It can be user, e.g., as a browser (homepage will be visible)
