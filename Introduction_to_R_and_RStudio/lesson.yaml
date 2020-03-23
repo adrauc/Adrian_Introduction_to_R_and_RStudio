@@ -297,7 +297,7 @@
   Output: If you use quotation marks the name will be interpreted as string. If you don't use quotation marks, the name will be interpreted as name of an object or as a function name.
 
 - Class: mult_question
-  Output: Thank you for finishing this class. Press Enter and then please copy the completion code that will appear in the console into the form here https://forms.gle/Pi4L1oD4Eqg5hVPD7 Would you like to get the completion code? Type the number next to Yes and press Enter - then you need to Enter your student id and name.
+  Output: Thank you for finishing this class. Press Enter and then please copy the completion code that will appear in the console into the form  here https://forms.gle/Pi4L1oD4Eqg5hVPD7 Would you like to get the completion code? Type the number next to Yes and press Enter - then you need to Enter your student id and name.
   CorrectAnswer: NULL
   AnswerChoices: Yes;No
   AnswerTests: get_token()
